@@ -1,4 +1,4 @@
-name: fooocus-api
+name: focus
 channels:
   - defaults
 dependencies:
